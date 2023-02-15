@@ -72,6 +72,7 @@ for(let i = 0; i <size; ++i)
 // key check
 document.addEventListener("keydown", function(event){
     let keyButton = event.key;
+    makeSound(keyButton);
     buttonAnimation(keyButton);
 })
 
