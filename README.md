@@ -1,3 +1,3 @@
 This repo contains js notes for beginners to start with
 
-Hope it can help aid your learning
+(ofc they are of no use, bc...mm.. who the heck make notes for a programming language, duh)
